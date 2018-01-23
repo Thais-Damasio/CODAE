@@ -1,0 +1,229 @@
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\Jéssica Mota\Documents\Trabalho Final POO\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\mscorlib.dll
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\normidna.nlp
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\normnfc.nlp
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\normnfd.nlp
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\normnfkc.nlp
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\normnfkd.nlp
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\Dimensional\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csprojResolveAssemblyReference.cache
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\1077335\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csprojResolveAssemblyReference.cache
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.CoreCompileInputs.cache
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+D:\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\Jéssica Mota\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMenu.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho POOOOO\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMenu.resources
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\mscorlib.dll
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\normidna.nlp
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\normnfc.nlp
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\normnfd.nlp
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\normnfkc.nlp
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\normnfkd.nlp
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dimensional\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMenu.resources
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLoginAdmin.resources
+C:\Users\Jéssica Mota\Documents\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JSobre.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLoginAdmin.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMenu.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JSobre.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\Thaís Damásio\Desktop\Trabalho 28-11-17\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLoginAdmin.resources
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMenu.resources
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JSobre.resources
+C:\Users\Thaís Damásio\Desktop\TrabalhoFinal\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JAdministrador.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe.config
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\bin\Debug\TrabalhoFinal.exe
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\bin\Debug\TrabalhoFinal.pdb
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.ResolveComReference.cache
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JAdministrador.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JConsultaCliente.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JJanelaFuncionario.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLogin.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JCadastroFuncionario.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JLoginAdmin.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMostrarConta.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JMenu.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Companhia.Janelas.JSobre.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.Properties.Resources.resources
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.GenerateResource.Cache
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.exe
+C:\Users\Thaís\Source\Repos\Trabalho_Final-2-Periodo\TrabalhoFinal\obj\Debug\TrabalhoFinal.pdb
